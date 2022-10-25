@@ -1,0 +1,8 @@
+C:\Users\hazavi\Desktop\c#\3case\3case\obj\Debug\fodblold.csproj.AssemblyReference.cache
+C:\Users\hazavi\Desktop\c#\3case\3case\obj\Debug\fodblold.csproj.SuggestedBindingRedirects.cache
+C:\Users\hazavi\Desktop\c#\3case\3case\obj\Debug\fodblold.csproj.CoreCompileInputs.cache
+C:\Users\hazavi\Desktop\c#\3case\3case\bin\Debug\3case.exe.config
+C:\Users\hazavi\Desktop\c#\3case\3case\bin\Debug\3case.exe
+C:\Users\hazavi\Desktop\c#\3case\3case\bin\Debug\3case.pdb
+C:\Users\hazavi\Desktop\c#\3case\3case\obj\Debug\3case.exe
+C:\Users\hazavi\Desktop\c#\3case\3case\obj\Debug\3case.pdb

@@ -1,0 +1,8 @@
+C:\Users\hazavi\Desktop\c#\3case\Dance\bin\Debug\Dance.exe.config
+C:\Users\hazavi\Desktop\c#\3case\Dance\bin\Debug\Dance.exe
+C:\Users\hazavi\Desktop\c#\3case\Dance\bin\Debug\Dance.pdb
+C:\Users\hazavi\Desktop\c#\3case\Dance\obj\Debug\Dansekonkurrence.csproj.AssemblyReference.cache
+C:\Users\hazavi\Desktop\c#\3case\Dance\obj\Debug\Dansekonkurrence.csproj.SuggestedBindingRedirects.cache
+C:\Users\hazavi\Desktop\c#\3case\Dance\obj\Debug\Dansekonkurrence.csproj.CoreCompileInputs.cache
+C:\Users\hazavi\Desktop\c#\3case\Dance\obj\Debug\Dance.exe
+C:\Users\hazavi\Desktop\c#\3case\Dance\obj\Debug\Dance.pdb

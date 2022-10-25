@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee4c64e5-51de-405d-80b4-252cfe18fe48": {
+      "ProjectGuid": "ee4c64e5-51de-405d-80b4-252cfe18fe48",
+      "DisplayName": "fodblold",
+      "ColorIndex": 0
+    },
+    "48a22e85-4813-4531-beb6-f568b87e9735": {
+      "ProjectGuid": "48a22e85-4813-4531-beb6-f568b87e9735",
+      "DisplayName": "Dansekonkurrence",
+      "ColorIndex": 1
+    },
+    "b2e4cf88-833a-40cf-b5f3-a8b416b55583": {
+      "ProjectGuid": "b2e4cf88-833a-40cf-b5f3-a8b416b55583",
+      "DisplayName": "Password",
+      "ColorIndex": 2
+    },
+    "2d38dfc3-9520-47f1-b7f8-2a3210a6398b": {
+      "ProjectGuid": "2d38dfc3-9520-47f1-b7f8-2a3210a6398b",
+      "DisplayName": "Test",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
